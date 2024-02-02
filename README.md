@@ -105,7 +105,11 @@ Nmap, or Network Mapper, stands as a pivotal tool in the realm of network securi
 By offering advanced features such as port scanning, remote operating system detection, identification of running services, and support for custom scripts, Nmap distinguishes itself as a versatile tool for the proactive detection of vulnerabilities and potential threats. Its ethical and legal application is paramount, underscoring the importance of obtaining proper permission before conducting any form of scanning on networks and systems not owned by the user.
 
 ## Tools to crack passwords
-	
+* [John the Ripper password cracker](https://www.openwall.com/john/)
+
+
+John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.) These are just some of the examples - there are many more.
+
 
 ## Tools for encryption
 
@@ -126,6 +130,7 @@ A complete website with more than 30 forensic tools for investigation, analysis 
 Cain & Abel is a password recovery tool for Microsoft operating systems. Enables easy recovery of various types of passwords by detecting the network, cracking encrypted passwords using Dictionary, Brute-Force and Cryptanalysis attacks, recording VoIP conversations, decoding encrypted passwords, recovering wireless network keys, revealing password boxes, discovering passwords in caching and analyzing routing protocols.
 Cain & Abel allows you to apply APR (Arp Poison Routing) very easily
 Cain & Abel was developed in the hope that it will be useful for network administrators, teachers, security consultants/professionals, forensic staff, security software vendors, professional penetration testers, and everyone who plans to use it for ethical reasons.
+
 
 * [Google admin toolbox, a great toolbox for forensic analysis](https://toolbox.googleapps.com/apps/main/)
 
