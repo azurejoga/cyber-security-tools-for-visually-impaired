@@ -100,13 +100,12 @@ Installing kali-linux is easy, for those familiar with virtualization, it is sim
 Additionally, when starting the distribution, press s and enter to activate the accessibility installation
 
 ## Network Tools 
-*[n-map](https://nmap.org/)
+* [n-map](https://nmap.org/)
 Nmap, or Network Mapper, stands as a pivotal tool in the realm of network security and system exploration. Developed as open-source software, Nmap is employed to map and assess the topology of networks, identifying hosts, services, and connected devices. Its primary purpose is to provide a comprehensive and detailed view of network infrastructure, enabling system administrators, security professionals, and network experts to understand and fortify the security of their digital environments.
 By offering advanced features such as port scanning, remote operating system detection, identification of running services, and support for custom scripts, Nmap distinguishes itself as a versatile tool for the proactive detection of vulnerabilities and potential threats. Its ethical and legal application is paramount, underscoring the importance of obtaining proper permission before conducting any form of scanning on networks and systems not owned by the user.
 
 ## Tools to crack passwords
-
-
+	
 
 ## Tools for encryption
 
@@ -115,10 +114,29 @@ By offering advanced features such as port scanning, remote operating system det
 
 
 ## Forence tools, forensic analysis and investigation
+* [30+ forensic investigation tools: mx-toolbox](https://mxtoolbox.com/NetworkTools.aspx?tab=)
+
+
+A complete website with more than 30 forensic tools for investigation, analysis of email headers, spf records, dns and much more!
+
+
+* [cain & abel: password: danieldonda.com](https://drive.google.com/file/d/1qswyXaC0ctEAdGVJ2Z93QF6m_AH5k9kz/view?usp=sharing)
+
+
+Cain & Abel is a password recovery tool for Microsoft operating systems. Enables easy recovery of various types of passwords by detecting the network, cracking encrypted passwords using Dictionary, Brute-Force and Cryptanalysis attacks, recording VoIP conversations, decoding encrypted passwords, recovering wireless network keys, revealing password boxes, discovering passwords in caching and analyzing routing protocols.
+Cain & Abel allows you to apply APR (Arp Poison Routing) very easily
+Cain & Abel was developed in the hope that it will be useful for network administrators, teachers, security consultants/professionals, forensic staff, security software vendors, professional penetration testers, and everyone who plans to use it for ethical reasons.
+
+* [Google admin toolbox, a great toolbox for forensic analysis](https://toolbox.googleapps.com/apps/main/)
+
+
+Yes, google has an official tool for forensic investigation/analysis!!
+Although on the website it is written that it is for debugging, but it can be used as forensic!
+It has similar functions to mx-toolbox, but with some additional things!
 
 
 ## malware samples
 there are a number of malware sample sites out there, but the most common ones are as follows.
-* vx underground: https://vx-underground.org/
-* MalwareBazaar: https://bazaar.abuse.ch/
-* the zoo: https://thezoo.morirt.com/
+* [vx underground](https://vx-underground.org/)
+* [MalwareBazaar:](https://bazaar.abuse.ch/)
+* [the zoo:](https://thezoo.morirt.com/)
