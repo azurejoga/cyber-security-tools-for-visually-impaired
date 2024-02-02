@@ -115,3 +115,10 @@ By offering advanced features such as port scanning, remote operating system det
 
 
 ## Forence tools, forensic analysis and investigation
+
+
+## malware samples
+there are a number of malware sample sites out there, but the most common ones are as follows.
+* vx underground: https://vx-underground.org/
+* MalwareBazaar: https://bazaar.abuse.ch/
+* the zoo: https://thezoo.morirt.com/
