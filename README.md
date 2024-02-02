@@ -112,4 +112,4 @@ Additionally, when starting the distribution, press s and enter to activate the 
 ## Bluetooth tools  
 
 
-##Forence tools, forensic analysis and investigation
+## Forence tools, forensic analysis and investigation
