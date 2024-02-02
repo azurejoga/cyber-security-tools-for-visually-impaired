@@ -99,8 +99,10 @@ spiderfoot -l 172.16.12.1 10333
 Installing kali-linux is easy, for those familiar with virtualization, it is simple.
 Additionally, when starting the distribution, press s and enter to activate the accessibility installation
 
-## Network Tools
-
+## Network Tools 
+*[n-map](https://nmap.org/)
+Nmap, or Network Mapper, stands as a pivotal tool in the realm of network security and system exploration. Developed as open-source software, Nmap is employed to map and assess the topology of networks, identifying hosts, services, and connected devices. Its primary purpose is to provide a comprehensive and detailed view of network infrastructure, enabling system administrators, security professionals, and network experts to understand and fortify the security of their digital environments.
+By offering advanced features such as port scanning, remote operating system detection, identification of running services, and support for custom scripts, Nmap distinguishes itself as a versatile tool for the proactive detection of vulnerabilities and potential threats. Its ethical and legal application is paramount, underscoring the importance of obtaining proper permission before conducting any form of scanning on networks and systems not owned by the user.
 
 ## Tools to crack passwords
 
