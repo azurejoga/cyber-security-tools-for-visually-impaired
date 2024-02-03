@@ -140,6 +140,11 @@ Additionally, when starting the distribution, press s and enter to activate the 
 Nmap, or Network Mapper, stands as a pivotal tool in the realm of network security and system exploration. Developed as open-source software, Nmap is employed to map and assess the topology of networks, identifying hosts, services, and connected devices. Its primary purpose is to provide a comprehensive and detailed view of network infrastructure, enabling system administrators, security professionals, and network experts to understand and fortify the security of their digital environments.
 By offering advanced features such as port scanning, remote operating system detection, identification of running services, and support for custom scripts, Nmap distinguishes itself as a versatile tool for the proactive detection of vulnerabilities and potential threats. Its ethical and legal application is paramount, underscoring the importance of obtaining proper permission before conducting any form of scanning on networks and systems not owned by the user.
 
+* [Airodump-ng](https://www.aircrack-ng.org/doku.php?id=pt-br:airodump-ng)
+Airodump-ng is a valuable and powerful tool included in the Aircrack-ng suite, specializing in security testing and audits of wireless networks. Developed to operate in Wi-Fi environments, Airodump-ng offers advanced features for capturing and analyzing data packets, providing detailed information about access points, stations, and other relevant characteristics of wireless networks.
+By monitoring and recording real-time data, Airodump-ng enables security professionals and network administrators to assess the security of their wireless infrastructures, identifying potential vulnerabilities and anomalies. Typically integrated with other tools in the Aircrack-ng suite, Airodump-ng plays a crucial role in ethical penetration testing, offering a comprehensive view of Wi-Fi networks and facilitating data analysis to enhance cybersecurity.
+It is imperative to emphasize that the use of Airodump-ng, like other security tools, should be conducted ethically and legally, with proper authorization from the responsible parties for the network or system in question.
+    )
 ## Tools to crack passwords
 * [John the Ripper password cracker](https://www.openwall.com/john/)
 
@@ -147,7 +152,7 @@ By offering advanced features such as port scanning, remote operating system det
 John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.) These are just some of the examples - there are many more.
 
 
-## Tools for encryption
+## Tools for encryptiona
 
 
 ## Bluetooth tools  
