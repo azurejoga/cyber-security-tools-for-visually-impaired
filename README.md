@@ -148,8 +148,8 @@ Airodump-ng is a valuable and powerful tool included in the Aircrack-ng suite, s
 By monitoring and recording real-time data, Airodump-ng enables security professionals and network administrators to assess the security of their wireless infrastructures, identifying potential vulnerabilities and anomalies. Typically integrated with other tools in the Aircrack-ng suite, Airodump-ng plays a crucial role in ethical penetration testing, offering a comprehensive view of Wi-Fi networks and facilitating data analysis to enhance cybersecurity.
 It is imperative to emphasize that the use of Airodump-ng, like other security tools, should be conducted ethically and legally, with proper authorization from the responsible parties for the network or system in question.
 
-    
-## Tools to crack passwords
+
+    ## Tools to crack passwords
 * [John the Ripper password cracker](https://www.openwall.com/john/)
 
 
